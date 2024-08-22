@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Godfrey</h1>
-<h3 align="center">A Software Engineer/h3>
+<h3 align="center">A Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
 <p align="left"> <a href="https://twitter.com/godfrey23_" target="blank"><img src="https://img.shields.io/twitter/follow/godfrey23_?logo=twitter&style=for-the-badge" alt="godfrey23_" /></a> </p>
 
-- 🔭 I’m currently working on [AirBnb_Clone](https://github.com/m-aishah/InvestmentAnalysis.git)
+- 🔭 I’m currently working on [InvestmentAnalysisTool](https://github.com/m-aishah/InvestmentAnalysis.git)
 
 - 🌱 I’m currently learning **Blockchain**
 
