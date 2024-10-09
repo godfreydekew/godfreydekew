@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
-<p align="left"> <a href="https://twitter.com/godfrey23_" target="blank"><img src="https://img.shields.io/twitter/follow/godfrey23_?logo=twitter&style=for-the-badge" alt="godfrey23_" /></a> </p>
+
 
 - 🔭 I’m currently working on [InvestmentAnalysisTool](https://github.com/m-aishah/InvestmentAnalysis.git)
 
@@ -14,8 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/godfrey23_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="godfrey23_" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/YourLinkedInUsername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YourLinkedInUsername" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/godfrey-dekera-9689951b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Godfrey Dekera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
