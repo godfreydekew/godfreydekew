@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Godfrey</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
 
