@@ -60,12 +60,15 @@
 <div style="background-color: #1a1a1a; border-radius: 15px; padding: 20px; margin: 10px 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godfreydekew&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godfreydekew&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=godfreydekew&show_icons=true&theme=radical&hide_border=true&width=100%" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godfreydekew&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godfreydekew&layout=compact&theme=radical&hide_border=true&width=100%" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godfreydekew&theme=radical&hide_border=true&width=100%" alt="GitHub Streak" />
 </div>
 
 </div>
