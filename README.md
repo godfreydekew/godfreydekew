@@ -87,15 +87,7 @@
 
 </div>
 
-## 🌟 Current Status
 
-<div style="background-color: #1a1a1a; border-radius: 15px; padding: 20px; margin: 10px 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-
-- 🔍 Open to new opportunities and collaborations
-- 📚 Always learning and exploring new technologies
-- 💡 Passionate about creating impactful solutions
-
-</div>
 
 ## 📈 Activity Graph
 
