@@ -12,16 +12,6 @@
 </div>
 
 
-
-## About Me
-
-<div style="background-color: #1a1a1a; border-radius: 15px; padding: 20px; margin: 10px 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-
-- I'm a Software Engineer passionate about developing efficient and innovative software solutions.
-- Currently am diving deep into  **Artificial intelligence**
-- Fun fact: I love fixing things-from computers to electric gadgets. If it`s broken, I will probably try to fix it just for fun!
-</div>
-
 ## Languages and Tools
 
 <div style="background-color: #1a1a1a; border-radius: 15px; padding: 20px; margin: 10px 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
