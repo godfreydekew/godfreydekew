@@ -2,7 +2,7 @@
 
 <div align="center">
   <div style="background: linear-gradient(45deg, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Blockchain+Enthusiast;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Problem+Solver" alt="Typing SVG" />
   </div>
 </div>
 
@@ -76,23 +76,4 @@
   </a>
 </p>
 
-</div>
-
-
-
-## Activity Graph
-
-<div style="background-color: #1a1a1a; border-radius: 15px; padding: 20px; margin: 10px 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=godfreydekew&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
-  </div>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=godfreydekew&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/godfreydekew?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
