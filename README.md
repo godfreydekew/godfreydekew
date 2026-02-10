@@ -82,3 +82,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=godfreydekew&style=flat-square&color=2196F3" alt="Profile Views" />
+</div>
