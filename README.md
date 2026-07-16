@@ -1,6 +1,6 @@
 ## About Me
 
-Hi y'all! I'm Godfrey, a BSc Software Engineer currently pursuing my MSc in Applied AI for Business at Henley Business School. My goal is to build systems that solve real business problems using AI and data.
+I'm Godfrey, a BSc Software Engineer currently pursuing my MSc in Applied AI for Business at Henley Business School.
 
 ---
 
