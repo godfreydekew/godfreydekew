@@ -18,7 +18,7 @@ Full-stack CRM for managing parking bookings, vehicle check-ins and check-outs, 
 
 ---
 
-### 🅿️ [OR Tambo Premium Parking](ortambopremiumparking.co.za)
+### 🅿️ [OR Tambo Premium Parking](https://ortambopremiumparking.co.za)
 Customer-facing booking website for an airport parking service, allowing customers to book parking and connecting bookings to the management CRM.
 
 **Tech:** Vite · TypeScript · Tailwind CSS · Docker · Vercel
